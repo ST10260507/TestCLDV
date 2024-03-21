@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|c:\\users\\lab_services_student\\documents\\cloud development\\mvcmovie\\mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\mvcmovie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\mvcmovie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\mvcmovie\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\data\\mvcmoviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\mvcmovie\\migrations\\20240310204502_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\migrations\\20240310204502_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\mvcmovie\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\mvcmovie\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\mvcmovie\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3FCCCF-0E45-41EC-820A-61E96AAE8789}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T00:23:36.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240310204502_InitalCreate.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Migrations\\20240310204502_InitalCreate.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Migrations\\20240310204502_InitalCreate.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Migrations\\20240310204502_InitalCreate.cs",
+              "RelativeToolTip": "MvcMovie\\Migrations\\20240310204502_InitalCreate.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:04:46.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Models\\SeedData.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:33:46.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:33:42.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcMovie\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:12:01.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T21:34:04.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MvcMovieContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Data\\MvcMovieContext.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Data\\MvcMovieContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Data\\MvcMovieContext.cs",
+              "RelativeToolTip": "MvcMovie\\Data\\MvcMovieContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:09:17.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T00:03:55.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T21:33:24.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T21:34:02.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T00:01:37.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieGenreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T00:03:21.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:33:53.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\Cloud Development\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T21:33:32.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
